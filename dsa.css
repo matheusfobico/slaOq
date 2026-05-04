@@ -79,3 +79,7 @@ background-color: #124394   ;
 .botao.ativo{
     background-color: green;
 }
+.abas-conteudo 
+{
+    display:none;
+}

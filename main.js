@@ -1,4 +1,4 @@
-const botoes= document.querySelectorAll("botao");
+const botoes= document.querySelectorAll(".aba-conteudo");
 console.log(botoes);
 for(let i=0; i<botoes; i++)
     {
@@ -11,4 +11,5 @@ for(let i=0; i<botoes; i++)
         botoes[i].classList.add("ativo");
         
     }
-}
+    
+    }
